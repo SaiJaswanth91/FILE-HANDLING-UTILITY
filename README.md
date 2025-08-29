@@ -39,3 +39,6 @@ This task provides a strong foundation in file handling, which is a critical ski
 Conclusion
 In summary, Task 1 demonstrates how to implement file handling operations in Java, including reading, writing, and modifying text files. The program covers essential classes such as FileWriter, FileReader, and BufferedReader while reinforcing the importance of exception handling. Completing this task helps students gain practical experience in working with persistent storage, which is a crucial step toward building more advanced applications in Java.
 
+#OUTPUT:
+
+<img width="676" height="299" alt="Image" src="https://github.com/user-attachments/assets/b1497f85-cf95-46eb-906f-e5f83183e4a9" />
